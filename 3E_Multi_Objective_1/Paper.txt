@@ -1,0 +1,9 @@
+Proposal of a new parabolic solar collector assisted power-refrigeration
+system integrated with thermoelectric generator using 3E analyses: Energy,
+exergy, and exergo-economic.
+
+Shoaib Khanmohammadi, Farayi Musharavati, Onder Kizilkan, Dinh Duc Nguyen.
+
+https://doi.org/10.1016/j.enconman.2020.113055
+
+https://www.sciencedirect.com/science/article/abs/pii/S0196890420305999
